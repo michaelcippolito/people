@@ -14,3 +14,4 @@ Add your username to this readme and submit a pull request:
 - [andredublin](https://github.com/andredublin)
 - [Michael Buhler](https://github.com/MichaelBuhler)
 - [koonts](https://github.com/koonts)
+- [Michael C. Ippolito](https://github.com/michaelcippolito)
